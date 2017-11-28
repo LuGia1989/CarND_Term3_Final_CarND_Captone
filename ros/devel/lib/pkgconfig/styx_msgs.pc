@@ -1,0 +1,8 @@
+prefix=/home/lugia/workspace/Term3/Final_CarND_Capstone/system-integration-capstone/ros/devel
+
+Name: styx_msgs
+Description: Description of styx_msgs
+Version: 0.0.0
+Cflags: -I/home/lugia/workspace/Term3/Final_CarND_Capstone/system-integration-capstone/ros/devel/include
+Libs: -L/home/lugia/workspace/Term3/Final_CarND_Capstone/system-integration-capstone/ros/devel/lib 
+Requires: 

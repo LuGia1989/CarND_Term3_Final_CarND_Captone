@@ -1,0 +1,8 @@
+prefix=/home/lugia/workspace/Term3/Final_CarND_Capstone/system-integration-capstone/ros/install
+
+Name: styx
+Description: Description of styx
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lugia/workspace/Term3/Final_CarND_Capstone/system-integration-capstone/ros/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/lugia/workspace/Term3/Final_CarND_Capstone/system-integration-capstone/ros/install
+
+Name: waypoint_follower
+Description: Description of waypoint_follower
+Version: 0.0.0
+Cflags: -I/home/lugia/workspace/Term3/Final_CarND_Capstone/system-integration-capstone/ros/install/include
+Libs: -L/home/lugia/workspace/Term3/Final_CarND_Capstone/system-integration-capstone/ros/install/lib -llibwaypoint_follower
+Requires: roscpp std_msgs tf geometry_msgs styx_msgs
